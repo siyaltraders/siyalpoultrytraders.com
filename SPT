@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Siyal Poultry Traders</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      padding: 20px;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+
+    header {
+      text-align: center;
+      padding: 20px;
+      background-color: #4285f4;
+      color: #fff;
+    }
+
+    section {
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: #4285f4;
+    }
+
+    p {
+      line-height: 1.5;
+    }
+
+    a {
+      color: #1a73e8;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Siyal Poultry Traders</h1>
+    <p>Where quality meets trust, and every trade is a commitment to excellence.</p>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>Siyal Poultry Traders (SPT) is a name synonymous with quality and reliability in the poultry trading industry. Committed to delivering excellence, SPT takes pride in offering a diverse range of poultry products, including live birds, premium meat, and fresh eggs. Our unwavering dedication to adhering to the highest standards of quality and safety sets us apart in the market.</p>
+  </section>
+
+  <section>
+    <h2>Our Values</h2>
+    <p>At Siyal Poultry Traders, we believe in fostering strong relationships with our clients, suppliers, and partners. Our transparent and ethical business practices have earned us the trust of customers, making us a preferred choice for poultry sourcing. With a focus on innovation and sustainability, we continuously strive to meet the ever-evolving demands of the poultry market.</p>
+  </section>
+
+  <section>
+    <h2>Products</h2>
+    <p>Driven by a passion for providing nutritious and wholesome poultry products, SPT is dedicated to contributing to the global food supply chain. As a customer-centric company, we prioritize satisfaction, ensuring that our products not only meet but exceed the expectations of our valued clientele.</p>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p>For inquiries and orders, please contact us:</p>
+    <p>Email: siyaltraders75@gmail.com</p>
+    <p>Phone: 03287573267</p>
+  </section>
+
+  <section>
+    <h2>Visit Our YouTube Channel</h2>
+    <p>Check out our YouTube channel for more updates and content:</p>
+    <p><a href="https://www.youtube.com/channel/UCt463SDceavi8WL-VYMGFiQ" target="_blank">Siyal Poultry Traders on YouTube</a></p>
+  </section>
+</body>
+
+</html>
